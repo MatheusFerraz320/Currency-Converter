@@ -1,0 +1,10 @@
+
+body {
+      font-family: 'Poppins', sans-serif;
+}
+.card {
+      border-radius: 1rem;
+}
+#resultado {
+      min-height: 40px;
+}
